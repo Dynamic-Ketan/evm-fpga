@@ -42,7 +42,7 @@ Electronic Voting Machine implementation on Spartan-7 FPGA with real-time vote c
 
 ## Implemented by:
 
-**Ketan** - [GitHub](https://github.com/Dynamic-Ketan)
-**Naman Malhotra** - [GitHub](https://github.com/naman-vlsi-vision)
+- **Ketan** - [GitHub](https://github.com/Dynamic-Ketan)
+- **Naman Malhotra** - [GitHub](https://github.com/naman-vlsi-vision)
 
 ---
